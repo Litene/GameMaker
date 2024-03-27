@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\SDL\SDL_Template\x64\Debug\Game.exe</FullPath>
+      <FullPath>D:\SDL\GamerEditor\x64\Debug\Game.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
